@@ -1,0 +1,5 @@
+
+{
+  "name": "Code Difference Checker",
+  "description": "A tool to compare two blocks of text or code and highlight the differences, similar to GitHub's diff view. It uses green for additions and red for deletions to provide a clear and intuitive comparison."
+}
